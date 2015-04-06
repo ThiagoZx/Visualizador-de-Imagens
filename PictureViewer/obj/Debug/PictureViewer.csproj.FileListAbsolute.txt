@@ -1,0 +1,9 @@
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Thiago.Torres\Desktop\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
